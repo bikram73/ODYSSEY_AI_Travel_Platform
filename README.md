@@ -128,11 +128,4 @@ npm start
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License.
-
----
-
-*Developed with ❤️ for global explorers.*
-
-[!AI Powered](https://deepmind.google/technologies/gemini/)
-[!Odyssey Mode](#)
+This project is licensed under the MIT License [![License]](https://opensource.org/licenses/MIT)
