@@ -1,12 +1,6 @@
 # 🧭 ODYSSEY | AI-Powered Intelligent Travel Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![AI Powered](https://img.shields.io/badge/AI-Gemini%203.5%20Flash-blue)](https://deepmind.google/technologies/gemini/)
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Odyssey Banner" style="border-radius: 20px; margin-bottom: 20px;"/>
-</div>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AI Powered](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-blue)](https://deepmind.google/technologies/gemini/)
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20TS-61dafb)](https://reactjs.org/)
 
