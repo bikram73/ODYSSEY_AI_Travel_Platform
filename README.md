@@ -1,5 +1,7 @@
 # 🧭 ODYSSEY | AI-Powered Intelligent Travel Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![AI Powered](https://img.shields.io/badge/AI-Gemini%203.5%20Flash-blue)](https://deepmind.google/technologies/gemini/)
 <div align="center">
   <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Odyssey Banner" style="border-radius: 20px; margin-bottom: 20px;"/>
 </div>
@@ -11,6 +13,12 @@
 **ODYSSEY** is an elite, world-class travel companion that leverages the power of **Google Gemini 1.5 Flash** to provide travelers with bespoke itineraries, immersive heritage tours, and real-time safety analytics. 
 
 Whether you're exploring the hidden alleys of Lisbon or the ancient ruins of Rome, Odyssey ensures your journey is inspired, safe, and culturally enriched through high-fidelity neural synthesis and interactive mapping.
+
+---
+
+## 📺 Preview
+> *Imagine high-resolution screenshots of your Dashboard, AI Planner, and Virtual Heritage Explorer here.*
+> ![Odyssey Dashboard Placeholder](https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80)
 
 ---
 
@@ -126,4 +134,4 @@ npm start
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License [![License]](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT License [![License: MIT](LICENSE)
