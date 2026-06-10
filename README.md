@@ -128,4 +128,4 @@ npm start
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License [![License: MIT](LICENSE)
+This project is licensed under the MIT License [![License: MIT]](LICENSE)
